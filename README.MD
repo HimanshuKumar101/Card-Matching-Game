@@ -22,7 +22,7 @@ Test your memory skills by flipping cards and finding matching pairs. The game a
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/himanshukumar101/card-matching-game.git
+   https://github.com/HimanshuKumar101/Card-Matching-Game.git
    cd card-matching-game
 
 
